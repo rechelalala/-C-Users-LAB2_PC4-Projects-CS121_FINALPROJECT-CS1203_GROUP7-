@@ -48,6 +48,8 @@ The system applies OOP principles to simulate connection handling, authenticatio
 - Lists connected devices
 - Offers traffic broadcast monitoring
 
+## 🗂️ Class Diagram: ![alt image](NETWORKDEVICE_UML.png)
+
 ## 🧠 Code Description
 A network device simulation system where users can create, configure, and interact with various network components. Designed using object-oriented programming principles, the system provides a hands-on, command-line experience of managing a basic digital network.
 
@@ -171,7 +173,6 @@ class Hub(NetworkDevice):
         else:
             print("\nHub is offline. Connect it first.")
 ```
-## 🗂️ Class Diagram: 
 
 ## 🧩 Object-Oriented Programming (OOP) Principles Demonstrated
 
