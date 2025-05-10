@@ -10,7 +10,7 @@ Develop a Python program that demonstrates the use of classes and core Object-Or
 ## 👩‍💻Members
 | Name | GitHub Profile |
 |------|----------------|
-|Lj G. Gamba|[Lj](https://github.com/rechelalala)|
+|Lj G. Gamba|[Lj](https://github.com/jljl-lj)|
 |Rechel M. Umali|[rechelalala](https://github.com/rechelalala)|
 |Edmar D. Visto|[Vistoedmar10](https://github.com/Vistoedmar10)|
 ## 🔧 Overview
