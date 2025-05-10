@@ -12,8 +12,7 @@ Develop a Python program that demonstrates the use of classes and core Object-Or
 |------|----------------|
 |Lj G. Gamba|[Lj](https://github.com/rechelalala)|
 |Rechel M. Umali|[rechelalala](https://github.com/rechelalala)|
-|Edmar Visto|[ed](https://github.com/rechelalala)|
-
+|Edmar D. Visto|[Vistoedmar10](https://github.com/Vistoedmar10)|
 ## 🔧 Overview
 **Network Room** is a simulated network environment built with Python, allowing users to create and manage different types of network devices like Routers, Modems, and Hubs.
 The system applies OOP principles to simulate connection handling, authentication, configuration, and monitoring functionalities typical in real-world networks.
