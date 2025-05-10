@@ -23,18 +23,16 @@ The system applies OOP principles to simulate connection handling, authenticatio
 
 ## ✨ Features
 
-- 📡 Add and manage network devices (Router, Modem, Hub)
-- 🔌 Connect and disconnect devices dynamically
-- 🔒 Simulate authentication and login procedures
-- 📶 Configure WiFi (SSID, password) or ISP (bandwidth) settings
-- 📈 Monitor signal strength and traffic broadcast
-- 🛠️ Operate devices based on type-specific behaviors
-- 📍 Track location and IP address of each device
-- 📊 Simulate ping/response for diagnostics
-
+- Add and manage network devices (Router, Modem, Hub)
+- Connect and disconnect devices dynamically
+- Simulate authentication and login procedures
+- Configure WiFi (SSID, password) or ISP (bandwidth) settings
+- Monitor signal strength and traffic broadcast
+- Operate devices based on type-specific behaviors
+- Track location and IP address of each device
+- Simulate ping/response for diagnostics
 
 ## 💡 Device Behaviors
-
 ### 📡 Router
 - Requires admin credentials
 - Allows WiFi SSID and password configuration
@@ -48,7 +46,10 @@ The system applies OOP principles to simulate connection handling, authenticatio
 - Lists connected devices
 - Offers traffic broadcast monitoring
 
-## 🗂️ Class Diagram: ![alt image](NETWORKDEVICE_UML.png)
+## 🗂️ Class Diagram: 
+<p align="center">
+  <img src="NETWORKDEVICE_UML.png" alt="Class Diagram" />
+</p>
 
 ## 🧠 Code Description
 A network device simulation system where users can create, configure, and interact with various network components. Designed using object-oriented programming principles, the system provides a hands-on, command-line experience of managing a basic digital network.
