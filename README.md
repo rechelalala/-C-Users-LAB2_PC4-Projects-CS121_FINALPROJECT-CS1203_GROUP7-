@@ -19,7 +19,7 @@ Develop a Python program that demonstrates the use of classes and core Object-Or
 The system applies OOP principles to simulate connection handling, authentication, configuration, and monitoring functionalities typical in real-world networks.
 
 
----
+
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ The system applies OOP principles to simulate connection handling, authenticatio
 - 📍 Track location and IP address of each device
 - 📊 Simulate ping/response for diagnostics
 
----
+
 ## 💡 Device Behaviors
 
 ### 📡 Router
